@@ -9,7 +9,8 @@ on:
   # Trigger the workflow on pushes to the main branch
   push:
     branches:
-      - main
+      - master
+
 jobs:
   generate:
     runs-on: ubuntu-latest
