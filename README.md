@@ -41,14 +41,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ngoctong421&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ngoctong421&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=ngoctong421&theme=default&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=ngoctong421&limit=5&theme=default&combine_all_yearly_contributions=true)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ngoctong421/ngoctong421/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ngoctong421/ngoctong421/output/github-snake.svg" />
