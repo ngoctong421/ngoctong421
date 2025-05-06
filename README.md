@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-🛜 currently working as a backend developer<br>
-🎓 graduated from UIT<br>
-👨‍💻 working as a developer since 2021<br>
+🛜 Currently working as a Software Engineer<br>
+🎓 Graduated from the University of Information Technology (UIT)<br>
+👨‍💻 Started working in the industry in 2021<br>
 
 ## 🌐 Socials:
 
