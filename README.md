@@ -1,8 +1,8 @@
 ### About Me:
 
-🛜 Currently working as a Software Engineer<br>
-🎓 Graduated from the University of Information Technology (UIT)<br>
-👨‍💻 Started working in the industry in 2021<br>
+- Currently working as a Software Engineer<br>
+- Graduated from the University of Information Technology (UIT)<br>
+- Started working in the industry in 2021<br>
 
 ### Tech Stack:
 
