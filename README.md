@@ -1,10 +1,10 @@
-# 💫 About Me:
+### About Me:
 
 🛜 Currently working as a Software Engineer<br>
 🎓 Graduated from the University of Information Technology (UIT)<br>
 👨‍💻 Started working in the industry in 2021<br>
 
-# 💻 Tech Stack:
+### Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -23,7 +23,7 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-# 📊 GitHub Stats:
+### GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=ngoctong421&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ngoctong421&theme=dark&hide_border=false)<br/>
